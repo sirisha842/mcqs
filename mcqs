@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+             Multiple choice questions
+        </title>
+    </head>
+    <body>
+        <h1> Multiple choice questions</h1>
+        <form action=action_pages.php>
+            <label> 1.who is curent pm of india ?</label>
+            <br/>
+            <input type="radio" name="pm of india" value=" modi"/> modi
+            <br/>
+            <input type="radio" name="pm of india" value=" nehru"/> nehru
+            <br/>
+            <input type="radio" name="pm of india" value=" netaji"/> netaji
+             <br/>
+            <label>2. who is  pm of japan ?</label>
+            <br/>
+            <input type="radio" name="pm of japan" value=" hu heping"/> hu heping
+            <br/>
+            <input type="radio" name="pm of japan" value=" ling xioa"/> ling xiao
+            <br/>
+            <input type="radio" name="pm of japan" value=" wu xian"/> wu xian
+            <br/>
+            <label>3. who is  iron lady of pakistan ?</label>
+            <br/>
+            <input type="radio" name="iron lady" value=" muniba mazari"/> muniba mazari
+            <br/>
+            <input type="radio" name="iron lady" value=" wangari mathai"/> wangari mathai
+            <br/>
+            <input type="radio" name="iron lady" value=" azim begam"/> azim begam
+            <br/>
+            <label> 4.what is the currecy of china ?</label>
+            <br/>
+            <input type="radio" name="currency of china" value=" yuan"/> yuan
+            <br/>
+            <input type="radio" name="currency of china" value=" dollar"/>dollar
+            <br/>
+            <input type="radio" name="currency of china" value=" dhirham"/> dhirham
+            <br/>
+            <label> 5.say its true or not . modi is current pm of india</label>
+            <br/>
+            <input type="checkbox" name ="modi_pm ofindia"  value="yes"/>yes
+            <br/>
+            <input type="checkbox" name="modi_pm ofindia" value="no"/>no
+            <br/>
+            <label>6.whats your favourite coloor? </label>
+            <br/>
+            <input type="radio" name="fav-col" value=" red"/> red
+            <br/>
+            <input type="radio" name="fav-col" value=" green"/> green
+            <br/>
+            <input type="radio" name="fav-col" value=" white"/> white
+            <br/>
+            <label>7.who invented bulb?</label>
+            <br/>
+            <input type="radio" name="bulb" value=" thomson"/> thomson
+            <br/>
+            <input type="radio" name="bulb" value="nicolas"/> nicolas
+            <br/>
+            <input type="radio" name="bulb" value=" tesla"/> tesla
+            <br/>
+            <label>8.who invented america?</label>
+            <br/>
+            <input type="radio" name="invt-america" value=" vosco di gama"/> vosco di gama
+            <br/>
+            <input type="radio" name="invt-america" value="nepolean"/> nepolean  
+            <br/>
+            <input type="radio" name="invt-america" value=" toroski"/> torsoki
+            <br/>
+            <label>9.which country currency cannot be falsified?</label>
+            <br/>
+            <input type="radio" name="currency" value=" russia"/> russsia
+            <br/>
+            <input type="radio" name="currency" value="netherland"/> netherland
+            <br/>
+            <input type="radio" name="currency" value=" britain"/> britain
+            <br/>
+            <label>10.when is china's national day?</label>
+            <br/>
+            <input type="radio" name="nation day" value=" oct 1"/> oct 1
+            <br/>
+            <input type="radio" name="nation day" value="jan 1"/> jan 1
+            <br/>
+            <input type="radio" name="nation day" value=" nov 5"/> nov 5
+            <br/>
+            <button>submit</button>
+
+
+            
+
+
+
+
+       
+        </form>
+        </body>
+        </html>
+                
